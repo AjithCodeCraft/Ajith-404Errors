@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AjithCodeCraft
-- 👀DATA SCIENCE,FULLSTACK DEV
-- 🌱 PYTHON FULLSTACK AND DATA SCIENCE
-- 💞️ PART OF A COMPANY
+- 👋 Hi, I’m @Ajith.S
+- 👀 Python Dev
+- 🌱 Fullstack,AI&ML,DSA
+- 💞️ FINDING 
 - 📫 ajithsa900@gmail,com
 
 <!---
