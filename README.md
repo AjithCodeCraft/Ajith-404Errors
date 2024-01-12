@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajith.S
 - 👀 Python Dev
-- 🌱 Fullstack,AI&ML,DSA
+- 🌱 NON
 - 💞️ FINDING 
 - 📫 ajithsa900@gmail,com
 
